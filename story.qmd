@@ -3,4 +3,4 @@ title: "Story"
 format: html
 embed-resources: true
 
-There once was a house on the beach with a little dog in it. One day, the little dog met a cat. The cat said 
+There once was a house on the beach with a little dog in it. One day, the little dog met a cat. The cat said, hey how you doing.
